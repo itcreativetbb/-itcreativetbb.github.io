@@ -1,11 +1,18 @@
-# -itcreativetbb.github.io
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm Elorm Oscar</p>
+</body>
+</html>
+
 <div style="text-align:center;margin-right: 20px;"><img src="itcreativetbb logo.png"></div>
 
 
 <div style="text-align:center;margin-right: 20px;">
 <a style="padding-right: 20px;" href="newmyweb.html">HOME</a>
 <a style="padding-right: 20px;" href="aboutus.html">ABOUT</a>
-<a style="padding-right: 20px;" href="service.html">SERVIES</a>
+<a style="padding-right: 20px;" href="service.html">SERVICE</a>
 </div>
 
 <h1 style="font-size:40px; text-align:center;">I.T CREATIVE</h1>
@@ -22,8 +29,6 @@
 <img style="width: 12em;" src="Photoshop Design Masterpieces (30).jpg">
 <img style="width: 12em;" src="Photoshop Design Masterpieces (31).jpg">
 
-<h1 style="font-size:25px; text-align:center;">SERVICES</h1>
+<h1 style="font-size:25px; text-align:center;">SERVICE</h1>
 
-<div style="text-align:center;">
-<video style="width: 25em; src="Quick YouTube Intro_free.mp4" controls />
-</div>
+COPYRIGHT @itcreativetbb
